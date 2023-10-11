@@ -58,9 +58,10 @@ body {
     width: 400px;
     height: 400px;
     background-color: white;
-    animation: flashThenAppear 2s infinite;
+    animation: flashThenAppear 3s infinite;
     transition: background-color 0.5s ease;
     transition: width 0.5s ease;
+   
 
 }
 
@@ -500,7 +501,6 @@ nav ul li a:hover {
         }
 
 }
-
 
 
 
